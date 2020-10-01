@@ -1,4 +1,4 @@
-Script will parse a website and find the e-mail addresses using REGEX.
+Script will parse a website and find the e-mail addresses using REGEX. (An awesome project)
 Next release will follow a variable number of links on the website to aide in scanning and entire website rather than one page.
 
 Usage:
